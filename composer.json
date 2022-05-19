@@ -1,0 +1,19 @@
+{
+    "name": "damon/damonmigrate",
+    "description": "this is database migrations package",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Damon Jiang",
+            "email": "damonjiang@fungomni.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+    "psr-4": {
+      "Damon\\": "src/"
+    }
+  }
+}
