@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="281ede4f-f37b-4636-89f8-c3297fea8374" name="默认更改列表" comment="">
+    <list default="true" id="281ede4f-f37b-4636-89f8-c3297fea8374" name="默认更改列表" comment="test">
       <change beforePath="$PROJECT_DIR$/src/migrations/Base.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/migrations/Base.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/migrations/Base.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="149" column="26" selection-start-line="149" selection-start-column="26" selection-end-line="149" selection-end-column="26" />
+            <state relative-caret-position="257">
+              <caret line="144" column="29" selection-start-line="144" selection-start-column="29" selection-end-line="144" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -209,12 +209,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652964702665</updated>
-      <workItem from="1652964703989" duration="1981000" />
+      <workItem from="1652964703989" duration="2786000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1981000" />
+    <option name="totallyTimeSpent" value="2786000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -306,8 +306,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/migrations/Base.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="149" column="26" selection-start-line="149" selection-start-column="26" selection-end-line="149" selection-end-column="26" />
+        <state relative-caret-position="257">
+          <caret line="144" column="29" selection-start-line="144" selection-start-column="29" selection-end-line="144" selection-end-column="29" />
         </state>
       </provider>
     </entry>
