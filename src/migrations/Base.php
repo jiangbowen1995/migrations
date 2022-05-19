@@ -148,7 +148,6 @@ class Base
     public function excute()
     {
         DB::getInstance();
-//        var_dump($this->columns);die;
         DB::excute($this->table,$this->engine,$this->charset,$this->operate,$this->columns);
     }
 
