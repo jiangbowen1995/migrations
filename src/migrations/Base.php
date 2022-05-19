@@ -142,7 +142,7 @@ class Base
 
 //    public function change()
 //    {
-//        return $this->adaaadColumn('is_change',1);
+//        return $this->adaaaaaaadColumn('is_change',1);
 //    }
 
     public function excute()
