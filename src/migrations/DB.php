@@ -76,7 +76,7 @@ final class DB
                         echo "执行的SQL：".$sql;
                     }
                 }
-                //关闭链接
+                //  关闭链接
                 self::$_instance->close();
                 echo " NOT EXCUTE....".PHP_EOL;
             }
