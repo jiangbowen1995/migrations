@@ -12,6 +12,7 @@ include '../vendor/autoload.php';
  * 6 执行结果完毕 最好是注释掉当前语句，如果不注释下次会重复执行 会报错 或者新建一个文件编写DDL
  * 7 目前实现的数据类型 int tinyint varchar text timestamp float double decimal
  * 8 可以添加 主键索引 唯一索引 普通索引
+ * 9 即将新增 闭包+自动生成文件+版本控制
  *
  *
  ****/
