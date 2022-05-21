@@ -15,9 +15,6 @@ include '../vendor/autoload.php';
  *
  *
  ****/
-//require_once './migrations/Base.php';
-//require_once './migrations/DB.php';
-//require_once './migrations/Fluent.php';
 use Damon\migrations\Base;
 class migrate extends Base
 {
